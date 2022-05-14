@@ -1,6 +1,6 @@
 - 👋 Hi I am Hemant Sharma
 - 👀 I’m interested in Frontend and Backend Development
-- 🌱 I’m currently learning React Js, Node Js, Javascript, AWS, Python, Data Science, MongoDb
+- 🌱 I’m wokring on React Js, Node Js, Javascript, AWS, Python, Data Science, MongoDb
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
